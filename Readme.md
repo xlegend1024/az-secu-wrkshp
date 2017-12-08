@@ -19,4 +19,35 @@ Following is a sample architecture you are going to build in this lab.
 
 ---
 
+## *TIps* for Hands on Lab
+
+### __Make your own Azure Portal Dashboard__
+
+Please follow next two steps to create your own dashboard first.
+
+1. Log on [Azure portal](https://portal.azure.com).
+
+1. Click '+ New Dashboard' on the portal.
+
+  ![alt text](./images/3.0.1.png)
+
+  Change name of the dashboard and click 'Done customizing' to save name. And you'll see empty dashboard.
+
+  ![alt text](./images/3.0.2.png)
+
+### __Pin to dashboard__
+
+When you create resource you'll see 'Pin to dashboard'. Check the box when you create a resource so you can have short cut to access to a resource.
+
+  ![alt text](./images/3.0.3.png)
+
+### __Use search to find your resource or Azure service__
+
+To find your specific resource you can use search at the Azure portal.
+
+  ![alt text](./images/3.0.5.png)
+
+
+---
+
 [>> NEXT](./1.CreateResourceGroup/Readme.md)
