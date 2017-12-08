@@ -2,4 +2,4 @@
 
 ---
 
-[>> NEXT](./2.CreateVNet/Readme.md)
+[>> NEXT](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/2.CreateVNet/Readme.md)

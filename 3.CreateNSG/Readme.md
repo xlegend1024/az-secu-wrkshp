@@ -2,4 +2,4 @@
 
 ---
 
-[>> NEXT](./4.CreateKeyVault/Readme.md)
+[>> NEXT](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/4.CreateKeyVault/Readme.md)

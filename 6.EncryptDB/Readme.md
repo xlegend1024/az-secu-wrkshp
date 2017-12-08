@@ -1,4 +1,4 @@
-# 4. Create Key Vault
+# 5. Encrypt Database
 
 ---
 
