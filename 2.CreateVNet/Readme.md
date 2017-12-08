@@ -1,30 +1,38 @@
 # 2. Create Virtual Network
 
+Create Virtual Network in the resource group.
+
 ## Architecture
 
-Create first resource in the resource group.
+## Create Virtual Network from Azure Portal
 
-![alt text](./images/3.1.png)
+1. Click '+ New' and search 'Virtual Network'
 
-1. Create Virtual network
+    ![alt text](./images/2.1.png)
 
-    Click '+ new' and search 'Virtual Network'.
+1. Click 'Virtual Network'.
 
-    Leave deployment model as 'Resource Manager'.
+    ![alt text](./images/2.2.png)
 
-    ![alt text](./images/3.1.3.png)
+1. Click 'Create' button.
 
-    Use following name and location for the lab.
+    > Leave deployment model as __Resource Manager__.
+
+    ![alt text](./images/2.3.png)
+
+1. Type Virtual Network name, change Address space and range and select your resource group.
+
+    ![alt text](./images/2.4.png)
 
     |Name|Address Space|Subscription|Resource Group|Location|Subnet Name|Subnet range|
     |---|---|---|---|---|---|---|
-    |workshop-###|10.0.0.0/16|*yoursubscription*|*yourresourcegroup*|West US|sqldev|10.0.1.0/24|
+    |dev-wus-vent|10.0.0.0/16|*yoursubscription*|*workshop-###*|West US|default|10.0.1.0/24|
 
-    It'll be look like following.
+1. Click 'Create'.
 
-    ![alt text](./images/3.1.4.png)
+    Virtual Netowkr will be created.
 
-    Click 'Create'.
+    ![alt text](./images/2.5.png)
 
 ---
 

@@ -5,7 +5,7 @@ Author: Hyunsuk Shin (hyssh@microsoft.com)
 
 ## Goal
 
-Implement a secure cloud environment for Virtual Machine.
+Implement a secure cloud environment for SQL Server Virtual Machine.
 
 ## Workshop Scenario
 
@@ -46,7 +46,6 @@ When you create resource you'll see 'Pin to dashboard'. Check the box when you c
 To find your specific resource you can use search at the Azure portal.
 
   ![alt text](./images/3.0.5.png)
-
 
 ---
 
