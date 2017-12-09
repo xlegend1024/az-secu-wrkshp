@@ -4,7 +4,7 @@
 
 ## Set up an Azure Active Directory Service Principal
 
-Before set up a Azure AD Service Principal, open notepad and copy following text and paste it into notepad.
+Before set up a Azure AD Service Principal, open notepad and copy following text and paste it into the notepad.
 ```
 AppID:
 ObjID:
