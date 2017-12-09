@@ -16,11 +16,11 @@ Create a Network Security Group and assign the NSG to the subnet in your Virtual
 
     Type name and select your resource group. And please check 'Pin to dashboard'.
 
-    ![new nsg](./images/3.2.png)
-
     |Name|Subscription|Resource Group|Location|
     |---|---|---|---|
     |dev-wus-nsg|*yoursubscription*|workshop-###|*West US*|
+
+    ![new nsg](./images/3.2.png)
 
 ## Add Inbound Security Rules
 

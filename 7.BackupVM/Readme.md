@@ -28,7 +28,7 @@ Protect SQL Server Virtual Machine using Azure Backup Service.
 
 ## Start Backup __NOW__
 
-1. Click 'Backup' from Virtual Machine Ooperations menu.
+1. Click 'Backup' from Virtual Machine Operations menu.
 
     Click 'Backup now' from top menu. And then click 'Backup' button on the Backup Now blade.
 
@@ -52,7 +52,7 @@ Protect SQL Server Virtual Machine using Azure Backup Service.
 
     ![backup](./images/7.8.png)
 
-    This initial backup will take on hour.
+    This initial backup will take an hour.
 
 ---
 
