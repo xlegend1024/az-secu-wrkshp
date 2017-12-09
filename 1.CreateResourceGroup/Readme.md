@@ -6,7 +6,7 @@ Create a logical group to manage Azure resources.
 
 ## Create resource group from Azure Portal
 
-> *[NOTE]*: If you already have a resource group for the lab, you can skip this step. But, note that you must have *owner* permission of the resource group for hands on lab.
+> [NOTE]: If you already have a resource group for the lab, you can skip this step. But, note that you must have *owner* permission of the resource group for hands on lab.
 
 1. Click '+ new' and search 'Resource group'.
 
@@ -28,7 +28,7 @@ Create a logical group to manage Azure resources.
     * Subscription name can be different yours and above sample.
     * Choose locatoin close to your location.
 
-> *[NOTE]*: Please check 'Pin to Dashboard' so you can access the resource easy.
+> [NOTE]: Please check 'Pin to Dashboard' so you can access the resource easy.
 
 ---
 
