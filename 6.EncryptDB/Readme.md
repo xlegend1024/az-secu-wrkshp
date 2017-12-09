@@ -170,3 +170,13 @@
 ---
 
 [>> NEXT](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/7.BackupVM/Readme.md)
+
+---
+
+## EKM Hierarchy
+
+![encrypt](./images/ekm-key-hierarchy-traditional.png)
+
+## What is Service Principal
+
+![encrypt](./images/ekm-using-azure-key-vault.png)
