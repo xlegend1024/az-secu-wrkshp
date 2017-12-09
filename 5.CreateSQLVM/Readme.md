@@ -1,5 +1,7 @@
 # 5. Create SQL Server Vritual Machine
 
+## Architecture
+
 ## Create SQL Server 2016 Virtual Machine
 
 1. Search 'SQL Server 2016' from Azure Marketplace

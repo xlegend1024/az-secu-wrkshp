@@ -1,5 +1,7 @@
 # 4. Create Key Vault
 
+Create Azure Key Vault and create a key that will be used for SQL Server TDE key protection.
+
 ## Architecture
 
 ## Set up an Azure Active Directory Service Principal

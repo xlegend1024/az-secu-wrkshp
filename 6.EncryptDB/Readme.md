@@ -1,5 +1,7 @@
 # 6. Encrypt Database
 
+## Architecture
+
 ## Remotely access SQL Server Virtual Machine
 
 1. Click your virtual machine
@@ -109,7 +111,7 @@
 
 	![encrypt](./images/6.10.png)
 
-## Backup a key from Azure Key Vault to your computer
+## Backup a key from Azure Key Vault
 
 1. Go to your Azure Key Vault
 
@@ -137,7 +139,7 @@
 
 	![encrypt](./images/6.19.png)
 
-## Restore Key to the Key Vault
+## Restore Key to the Azure Key Vault
 
 1. Go back to Azure Key Vault and click 'Keys'.
 

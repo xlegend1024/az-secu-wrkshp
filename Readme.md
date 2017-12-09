@@ -19,7 +19,7 @@ Following is a sample architecture you are going to build in this lab.
 
 ---
 
-## *TIps* for Hands on Lab
+## __Tips__ for Hands on Lab
 
 ### __Make your own Azure Portal Dashboard__
 
@@ -35,11 +35,15 @@ Please follow next two steps to create your own dashboard first.
 
   ![alt text](./images/3.0.2.png)
 
+---
+
 ### __Pin to dashboard__
 
 When you create resource you'll see 'Pin to dashboard'. Check the box when you create a resource so you can have short cut to access to a resource.
 
   ![alt text](./images/3.0.3.png)
+
+---
 
 ### __Use search to find your resource or Azure service__
 
