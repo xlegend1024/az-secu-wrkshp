@@ -37,11 +37,21 @@ This resource group delete will be asynchronous job. Once you confirm the resour
 ---
 
 [>> Next #1](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/1.CreateResourceGroup)
+
 [>> Next #2](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/2.CreateVNet/Readme.md)
+
 [>> Next #3](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/3.CreateNSG/Readme.md)
+
 [>> Next #4](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/4.CreateKeyVault/Readme.md)
+
 [>> Next #5](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/5.CreateSQLVM/Readme.md)
+
 [>> Next #6](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/6.EncryptDB/Readme.md)
+
 [>> Next #7](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/7.BackupVM/Readme.md)
+
 [>> Next #8](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/8.RestoreVMData/Readme.md)
+
 [>> Next #9](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/9.RemoveResources/Readme.md)
+
+[>> Next #10](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/10.VNetBlobIntegration)

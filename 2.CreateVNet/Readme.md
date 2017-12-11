@@ -24,11 +24,11 @@ Create Virtual Network in the resource group.
 
 1. Type Virtual Network name, change Address space and range and select your resource group.
 
-    ![alt text](./images/2.4.png)
-
     |Name|Address Space|Subscription|Resource Group|Location|Subnet Name|Subnet range|
     |---|---|---|---|---|---|---|
     |dev-wus-vnet|10.0.0.0/16|*yoursubscription*|*workshop-###*|West US|default|10.0.1.0/24|
+
+    ![alt text](./images/2.4.png)
 
 1. Click 'Create'.
 

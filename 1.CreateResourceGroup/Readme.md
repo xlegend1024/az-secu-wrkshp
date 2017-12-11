@@ -20,11 +20,11 @@ Create a logical group to manage Azure resources.
 
 1. Type resource group name and location.
 
-    ![new icon](./images/1.3.png)
-
     |Name|Subscription|Location|
     |---|---|---|
     |workshop-###|*yoursubscription*|*West US*|
+
+    ![new icon](./images/1.3.png)
 
     * Change ### to random 3 digit numbers. For example, name your resource group as 'workshop-777'.
     * Subscription name can be different yours and above sample.

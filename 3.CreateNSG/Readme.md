@@ -6,7 +6,7 @@ Create a Network Security Group and assign the NSG to the subnet in your Virtual
 
 You can control network traffic. Following figure shows how network traffic flows. For example, if a traffic flow into a Virtual Machie, the traffic will go thru Subnet level NSG and then NIC level NSG. And an out bound traffic will go thru NIC level NSG and then subnet level NSG.
 
-![alt text](./images/3.2.7.png)
+![alt text](./images/nsgconcept.png)
 
 ## Architecture
 
