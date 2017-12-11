@@ -17,6 +17,18 @@ Following is a sample architecture you are going to build in this lab.
 
 ![Final Architecture](./workshop-architecture.png)
 
+## Agenda
+
+[>> Lab #1](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/1.CreateResourceGroup)
+[>> Lab #2](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/2.CreateVNet/Readme.md)
+[>> Lab #3](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/3.CreateNSG/Readme.md)
+[>> Lab #4](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/4.CreateKeyVault/Readme.md)
+[>> Lab #5](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/5.CreateSQLVM/Readme.md)
+[>> Lab #6](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/6.EncryptDB/Readme.md)
+[>> Lab #7](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/7.BackupVM/Readme.md)
+[>> Lab #8](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/8.RestoreVMData/Readme.md)
+[>> Lab #9](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/9.RemoveResources/Readme.md)
+
 ---
 
 ## __Tips__ for Hands on Lab

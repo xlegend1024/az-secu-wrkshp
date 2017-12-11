@@ -1,5 +1,11 @@
 # 6. Encrypt Database
 
+Encrypt database and protect encryption key by Azure Key Vault
+
+## EKM (Extensible Key Management ) Concept
+
+![encrypt](./images/ekm-key-hierarchy-traditional.png)
+
 ## Architecture
 
 ![lab6](./images/lab6.png)
@@ -173,7 +179,7 @@
 
 ---
 
-[>> NEXT](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/7.BackupVM/Readme.md)
+[>> NEXT #7](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/7.BackupVM/Readme.md)
 
 ---
 

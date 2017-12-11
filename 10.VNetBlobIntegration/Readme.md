@@ -43,3 +43,8 @@ Configure Virtual Network (VNet) Service Endpoints for Azure Storage.
     You can't access blob from out slide of Azure Virtual Network.
 
     ![vnetblob](./images/10.9.png)
+
+---
+
+[>> Next #6](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/6.EncryptDB)
+[>> Next #6](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/6.EncryptDB)

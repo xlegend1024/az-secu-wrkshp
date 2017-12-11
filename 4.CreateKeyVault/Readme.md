@@ -123,4 +123,4 @@ KeyVaultURL:
 
 ---
 
-[>> NEXT](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/5.CreateSQLVM/Readme.md)
+[>> NEXT #5](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/5.CreateSQLVM/Readme.md)
