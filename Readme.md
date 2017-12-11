@@ -19,23 +19,23 @@ Following is a sample architecture you are going to build in this lab.
 
 ## Agenda
 
-[>> Lab #1](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/1.CreateResourceGroup)
+[>> Lab #1. Create Resource Group](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/1.CreateResourceGroup)
 
-[>> Lab #2](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/2.CreateVNet/Readme.md)
+[>> Lab #2. Create Virtual Network](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/2.CreateVNet/Readme.md)
 
-[>> Lab #3](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/3.CreateNSG/Readme.md)
+[>> Lab #3. Create Network Security Group](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/3.CreateNSG/Readme.md)
 
-[>> Lab #4](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/4.CreateKeyVault/Readme.md)
+[>> Lab #4. Create Key Vault](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/4.CreateKeyVault/Readme.md)
 
-[>> Lab #5](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/5.CreateSQLVM/Readme.md)
+[>> Lab #5. Create SQL Server Virtual Machine](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/5.CreateSQLVM/Readme.md)
 
-[>> Lab #6](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/6.EncryptDB/Readme.md)
+[>> Lab #6. Encryt Database (TDE)](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/6.EncryptDB/Readme.md)
 
-[>> Lab #7](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/7.BackupVM/Readme.md)
+[>> Lab #7. Backup Virtual Machine](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/7.BackupVM/Readme.md)
 
-[>> Lab #8](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/8.RestoreVMData/Readme.md)
+[>> Lab #8. Restoure data from Backup Vault](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/8.RestoreVMData/Readme.md)
 
-[>> Lab #9](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/9.RemoveResources/Readme.md)
+[>> Lab #9. Remove Resources](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/9.RemoveResources/Readme.md)
 
 ---
 
