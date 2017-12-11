@@ -74,7 +74,8 @@
 
 ---
 
-[>> Optional](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/10.VNetBlobIntegration)
+[>> Lab #10 (Optional)](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/10.VNetBlobIntegration)
+
 [>> NEXT #6](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/6.EncryptDB/Readme.md)
 
 ---
