@@ -4,6 +4,8 @@ Create Azure Key Vault and create a key that will be used for SQL Server TDE key
 
 ## Architecture
 
+![lab4](./images/lab4.png)
+
 ## Set up an Azure Active Directory Service Principal
 
 Before set up a Azure AD Service Principal, open notepad and copy following text and paste it into the notepad.

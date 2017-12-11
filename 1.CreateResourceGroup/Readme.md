@@ -4,6 +4,8 @@ Create a logical group to manage Azure resources.
 
 ## Architecture
 
+![lab1](./images/lab1.png)
+
 ## Create resource group from Azure Portal
 
 > [NOTE]: If you already have a resource group for the lab, you can skip this step. But, note that you must have *owner* permission of the resource group for hands on lab.

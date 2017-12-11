@@ -4,6 +4,8 @@ Create a Network Security Group and assign the NSG to the subnet in your Virtual
 
 ## Architecture
 
+![lab3](./images/lab3.png)
+
 ## Create Network Security Group
 
 1. Click '+ New' and search Network Security Group.

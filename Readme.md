@@ -15,7 +15,7 @@ There are multiple ways to attack or still data from servers. On the other hands
 
 Following is a sample architecture you are going to build in this lab.
 
-![Final Architecture]()
+![Final Architecture](./workshop-architecture.png)
 
 ---
 

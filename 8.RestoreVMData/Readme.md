@@ -4,6 +4,8 @@ Protect SQL Server Virtual Machine using Azure Backup Service.
 
 ## Architecture
 
+![lab8](./images/lab8.png)
+
 ## Review Restore Options
 
 1. Search Recovery Service Vault and click the service on the result list.

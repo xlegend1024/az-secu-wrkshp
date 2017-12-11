@@ -4,6 +4,8 @@ Create Virtual Network in the resource group.
 
 ## Architecture
 
+![lab2](./images/lab2.png)
+
 ## Create Virtual Network from Azure Portal
 
 1. Click '+ New' and search 'Virtual Network'
@@ -26,7 +28,7 @@ Create Virtual Network in the resource group.
 
     |Name|Address Space|Subscription|Resource Group|Location|Subnet Name|Subnet range|
     |---|---|---|---|---|---|---|
-    |dev-wus-vent|10.0.0.0/16|*yoursubscription*|*workshop-###*|West US|default|10.0.1.0/24|
+    |dev-wus-vnet|10.0.0.0/16|*yoursubscription*|*workshop-###*|West US|default|10.0.1.0/24|
 
 1. Click 'Create'.
 

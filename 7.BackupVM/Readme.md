@@ -4,6 +4,8 @@ Protect SQL Server Virtual Machine using Azure Backup Service.
 
 ## Architecture
 
+![lab7](./images/lab7.png)
+
 ## Create Azure Recovery Service Vault
 
 1. Click 'Backup' from Virtual Machine Ooperations menu.
@@ -15,7 +17,7 @@ Protect SQL Server Virtual Machine using Azure Backup Service.
     Recovery Service Vault name will be named automatically.
 
     Select 'Use existing' resource group.
-    
+
     And click 'Backup policy' to see detail policy information.
 
     |Recovery Services Vault|Resource Group|Backup Policy|

@@ -2,6 +2,8 @@
 
 ## Architecture
 
+![lab6](./images/lab6.png)
+
 ## Remotely access SQL Server Virtual Machine
 
 1. Click your virtual machine
