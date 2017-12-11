@@ -1,4 +1,4 @@
-# 3. Create Network Security Group
+# 03. Create Network Security Group
 
 Create a Network Security Group and assign the NSG to the subnet in your Virtual Network.
 
@@ -87,4 +87,4 @@ You can control network traffic. Following figure shows how network traffic flow
     ![nsg img](./images/3.14.png)
 ---
 
-[>> NEXT #4](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/4.CreateKeyVault/Readme.md)
+[>> NEXT #04](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/04.CreateKeyVault/Readme.md)

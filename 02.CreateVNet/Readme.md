@@ -1,4 +1,4 @@
-# 2. Create Virtual Network
+# 02. Create Virtual Network
 
 Create Virtual Network in the resource group.
 
@@ -38,4 +38,4 @@ Create Virtual Network in the resource group.
 
 ---
 
-[>> NEXT](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/3.CreateNSG/Readme.md)
+[>> NEXT #03](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/03.CreateNSG/Readme.md)

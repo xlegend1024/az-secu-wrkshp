@@ -1,4 +1,4 @@
-# 9. Remove Resource
+# 99. Remove Resource
 
 ## Delete Resource Group
 

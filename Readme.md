@@ -19,23 +19,25 @@ Following is a sample architecture you are going to build in this lab.
 
 ## Agenda
 
-[>> Lab #1. Create Resource Group](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/01.CreateResourceGroup)
+[>> Lab #01. Create Resource Group](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/01.CreateResourceGroup)
 
-[>> Lab #2. Create Virtual Network](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/02.CreateVNet/Readme.md)
+[>> Lab #02. Create Virtual Network](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/02.CreateVNet/Readme.md)
 
-[>> Lab #3. Create Network Security Group](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/03.CreateNSG/Readme.md)
+[>> Lab #03. Create Network Security Group](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/03.CreateNSG/Readme.md)
 
-[>> Lab #4. Create Key Vault](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/04.CreateKeyVault/Readme.md)
+[>> Lab #04. Create Key Vault](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/04.CreateKeyVault/Readme.md)
 
-[>> Lab #5. Create SQL Server Virtual Machine](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/05.CreateSQLVM/Readme.md)
+[>> Lab #05. Create SQL Server Virtual Machine](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/05.CreateSQLVM/Readme.md)
 
-[>> Lab #6. Encryt Database (TDE)](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/06.EncryptDB/Readme.md)
+[>> Lab #06. Encryt Database (TDE)](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/06.EncryptDB/Readme.md)
 
-[>> Lab #7. Backup Virtual Machine](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/07.BackupVM/Readme.md)
+[>> Lab #07. Backup Virtual Machine](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/07.BackupVM/Readme.md)
 
-[>> Lab #8. Restoure data from Backup Vault](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/08.RestoreVMData/Readme.md)
+[>> Lab #08. Restoure data from Backup Vault](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/08.RestoreVMData/Readme.md)
 
-[>> Lab #9. Remove Resources](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/99.RemoveResources/Readme.md)
+[>> Lab #09. ]()
+
+[>> Lab #99. Remove Resources](https://github.com/xlegend1024/az-secu-wrkshp/blob/master/99.RemoveResources/Readme.md)
 
 ---
 

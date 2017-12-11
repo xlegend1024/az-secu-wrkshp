@@ -1,4 +1,4 @@
-# 4. Create Key Vault
+# 04. Create Key Vault
 
 Create Azure Key Vault and create a key that will be used for SQL Server TDE key protection.
 
@@ -123,4 +123,4 @@ KeyVaultURL:
 
 ---
 
-[>> NEXT #5](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/5.CreateSQLVM/Readme.md)
+[>> NEXT #05](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/05.CreateSQLVM/Readme.md)

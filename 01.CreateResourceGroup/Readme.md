@@ -1,4 +1,4 @@
-# 1. Create Resource Group
+# 01. Create Resource Group
 
 Create a logical group to manage Azure resources.
 
@@ -34,4 +34,4 @@ Create a logical group to manage Azure resources.
 
 ---
 
-[>> NEXT](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/2.CreateVNet/Readme.md)
+[>> NEXT #02](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/02.CreateVNet/Readme.md)
