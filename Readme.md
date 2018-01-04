@@ -75,4 +75,4 @@ To find your specific resource you can use search at the Azure portal.
 
 ---
 
-[>> NEXT](./1.CreateResourceGroup/Readme.md)
+[>> NEXT](https://github.com/xlegend1024/az-secu-wrkshp/tree/master/01.CreateResourceGroup)
